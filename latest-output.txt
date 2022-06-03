@@ -1,0 +1,5 @@
+mytest-pod1;{"app":"team_system"};2022-06-02T18:19:34Z;Running;bitnami/nginx:latest
+mytest-pod2;{"app":"team_system"};2022-06-02T18:39:16Z;Running;bitnami/nginx:latest
+mytest-pod3;{"app":"team1_system"};2022-06-03T11:31:24Z;Pending;bitnami/httpd:latest
+mytest-pod4;{"app":"team1_system"};2022-06-03T11:35:05Z;Pending;ngnix:latest
+mytest-pod5;{"app":"system"};2022-06-03T11:54:55Z;Running;httpd:latest
